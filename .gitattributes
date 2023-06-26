@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+M-34-72_95_96_108.gdb/a00000004.gdbtable filter=lfs diff=lfs merge=lfs -text
+M-34-72_95_96_108.gdb/a00000004.gdbtable filter=lfs diff=lfs merge=lfs -text
+*.gdbtable filter=lfs diff=lfs merge=lfs -text
