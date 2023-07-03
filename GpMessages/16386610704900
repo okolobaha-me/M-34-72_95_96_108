@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: понедельник, 3 июля 2023 г. 13:59:01</msg><msg code="-2147467259" type="100">Traceback (most recent call last):
+  File "D:\maps\github\M-34-72_95_96_108\VM_Toolbox.atbx#RotateBridge_NewToolbox.py", line 28, in &lt;module&gt;
+RuntimeError: Cannot acquire a lock.
+</msg><msg code="0" type="0">Failed script (null)...</msg><msg code="-2147467259" type="100">Failed to execute (RotateBridge).</msg><msg code="0" type="3">Failed at понедельник, 3 июля 2023 г. 13:59:07 (Elapsed Time: 5,93 seconds)</msg></messages>
